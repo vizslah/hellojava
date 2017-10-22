@@ -15,8 +15,11 @@ JLabel label1 = new
 JLabel ("Hello, World, this is my first Java program on GitHub");
 JButton button1 = new
 JButton("Make everything OK");
+JSlider slider1 = new
+JSlider();
 panel1.add(label1);
 panel1.add(button1);
+pandel1.add(slider1);
 this.add(panel1);
 this.setTitle("The OK Button");
 this.setSize(500,350);
