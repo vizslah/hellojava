@@ -12,7 +12,7 @@ public HelloWorld()
 JPanel panel1 = new
 JPanel();
 JLabel label1 = new
-JLabel ("Hello, World, this is my first Java program on Ubuntu Linux");
+JLabel ("Hello, World, this is my first Java program on GitHub");
 JButton button1 = new
 JButton("Make everything OK");
 panel1.add(label1);
