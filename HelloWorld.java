@@ -22,7 +22,7 @@ panel1.add(button1);
 panel1.add(slider1);
 this.add(panel1);
 this.setTitle("The OK Button");
-this.setSize(500,350);
+this.setSize(500,150);
 this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 this.setVisible(true);
 }
